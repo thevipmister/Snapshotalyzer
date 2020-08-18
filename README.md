@@ -12,4 +12,4 @@ This project uses boto3 to list all the AWS instances
 
 ## Running
 
-`pipenv run python shotty/shotty.py`
+`pipenv run python shotty/shotty.py <command> <--project=Project>`
